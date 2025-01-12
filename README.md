@@ -6,6 +6,7 @@ There are awesome lists for various themes. This list is just a mix of tools I f
 - [csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer.
 - [lsix](https://github.com/hackerb9/lsix) - Like `ls`, but for images.
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool.
+- [newman](https://github.com/postmanlabs/newman) - A command-lint collection runner for postman.
 - [q](https://github.com/harelba/q) - Run SQL directly on delimited files.
 
 ## Git
