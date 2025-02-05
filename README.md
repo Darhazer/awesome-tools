@@ -20,6 +20,7 @@ There are awesome lists for various themes. This list is just a mix of tools I f
 
 ## Misc
 - [dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image.
+- [httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program 
 - [ngxtop](https://github.com/lebinh/ngxtop) - Real-time metrics for nginx server.
 
 
