@@ -4,6 +4,7 @@ There are awesome lists for various themes. This list is just a mix of tools I f
 
 ## Command line
 - [csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer.
+- [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to `find`.
 - [lsix](https://github.com/hackerb9/lsix) - Like `ls`, but for images.
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool.
 - [mdq](https://github.com/yshavit/mdq) - Like jq but for Markdown: find specific elements in a md doc.
