@@ -16,6 +16,7 @@ There are awesome lists for various themes. This list is just a mix of tools I f
 - [git-absorb](https://github.com/tummychow/git-absorb) - git commit --fixup, but automatic.
 - [git-recall](https://github.com/Fakerr/git-recall) - An interactive way to peruse your git history from the terminal.
 - [delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output.
+- [omnidiff](https://github.com/ivankovic/omnidiff) - Fast, robust, accurate diffing.
 
 ## Database tools
 - [index-digest](https://github.com/macbre/index-digest) Analyses your MySQL schema and suggests indices and schema improvements. It can also analyze database queries if you provide an SQL query log.
